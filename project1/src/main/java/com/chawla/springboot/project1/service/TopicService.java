@@ -16,7 +16,8 @@ private List<Topic> topics = new ArrayList<>(Arrays.asList(
 		new Topic("id2", "name2", "description2"),
 		new Topic("id3", "name3", "description3"),
 		new Topic("id4", "name4", "description4"),
-		new Topic("id5", "name5", "description5")
+		new Topic("id5", "name5", "description5"),
+		new Topic("id6", "name6", "description6")
 	));
 
 
